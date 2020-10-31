@@ -179,6 +179,8 @@ The master is checkout successfully on the gitkraken and locally pull
 
 Media queries added
 
+A responsive web design added
+
 ...
 
 ## Finishing Touches
