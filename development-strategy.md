@@ -174,8 +174,11 @@ This user story was developed on a branch called images
 The master is checkout successfully on the gitkraken and locally pull
 
 ...
+
 **CSS**
+
 Media queries added
+
 ...
 
 ## Finishing Touches
